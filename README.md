@@ -1,5 +1,3 @@
-# DIP Lab 
-
 ## Student Information
 - **Name:** Pulak Mojumder Auntu & Ziad Hasan Rajee
 - **ID:** B210305045 & B210305052
