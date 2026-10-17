@@ -1,0 +1,10 @@
+Project Description
+
+Objective: 
+Develop a traditional Digital Image Processing (DIP) system to detect and measure visible cracks in concrete surfaces.
+
+Motivation: 
+Manual crack inspection in buildings, bridges, and roads can be time-consuming and dependent on human observation.
+
+Key Techniques:
+Grayscale Conversion, Black-Hat Transform, Thresholding, Morphological Filtering, Skeletonization, Pixel-Based Measurement.
